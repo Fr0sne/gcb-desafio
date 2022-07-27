@@ -1,6 +1,7 @@
 Uso:
 
 ```bash
-docker-compose up -d
-npx prisma db push
+$ docker-compose up -d
+$ npx prisma db push
+$ yarn start:dev
 ```
